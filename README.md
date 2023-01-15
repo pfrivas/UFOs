@@ -16,8 +16,11 @@ There is a description of how to perform a search, with images
 ## Summary
 
 ### One Drawback of this Webpage
-- 
+- The data is limited and outdated since it is not linked to a "live" source.
 
 ### Two additional recommendations for further development
--
--
+- Adding functionality to pull the data from a live source that includes current and archived data globally.
+- Adding another filter button below the filter search will serve as the enter button for all five filter searches.
+
+
+
