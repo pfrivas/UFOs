@@ -20,7 +20,9 @@ There is a description of how to perform a search, with images
 
 ### Two additional recommendations for further development
 - Adding functionality to pull the data from a live source that includes current and archived data globally.
-- Adding another filter button below the filter search will serve as the enter button for all five filter searches.
+- Adding additional customizations, such as click-buttons, dropdown list, and/or auto-fill that can help "guide" the user and make the page more interactive.
+
+
 
 
 
