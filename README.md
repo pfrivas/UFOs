@@ -22,9 +22,9 @@ The purpose of this analysis is to build a table using UFO sightings data stored
   - All the encrypted data/data source can be found at [data.js](https://github.com/pfrivas/UFOs/blob/main/Challenge/web/static/js/data.js)
 - **Filters**
   - The website uses five different filter search boxes on the left side of the page
-    - filters includes the Date, City, State, Country, and Shape. 
+    - Filters includes the Date, City, State, Country, and Shape. 
     ![website_filter](https://github.com/pfrivas/UFOs/blob/main/Resources/Website%20Filter%20Buttons.png)
-  - Filtering on the webpage can be conducted by entering the filter formation into the filter search box. 
+  - Filtering on the webpage can be conducted by entering the desired specific information into the filter search box. 
   - The results of the information entered into the filter search box will return the UFOs sightings for the exact information entered in the filter search as shown below
   ![filtered_search](https://github.com/pfrivas/UFOs/blob/main/Resources/Filtered%20Search.png)
 
